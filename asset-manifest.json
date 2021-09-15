@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kpeeem.github.io/csb-4cdw2/static/css/main.0acf67ca.chunk.css",
+    "main.js": "https://kpeeem.github.io/csb-4cdw2/static/js/main.b396ebcf.chunk.js",
+    "main.js.map": "https://kpeeem.github.io/csb-4cdw2/static/js/main.b396ebcf.chunk.js.map",
+    "runtime-main.js": "https://kpeeem.github.io/csb-4cdw2/static/js/runtime-main.454b95b3.js",
+    "runtime-main.js.map": "https://kpeeem.github.io/csb-4cdw2/static/js/runtime-main.454b95b3.js.map",
+    "static/js/2.81e0c35c.chunk.js": "https://kpeeem.github.io/csb-4cdw2/static/js/2.81e0c35c.chunk.js",
+    "static/js/2.81e0c35c.chunk.js.map": "https://kpeeem.github.io/csb-4cdw2/static/js/2.81e0c35c.chunk.js.map",
+    "index.html": "https://kpeeem.github.io/csb-4cdw2/index.html",
+    "static/css/main.0acf67ca.chunk.css.map": "https://kpeeem.github.io/csb-4cdw2/static/css/main.0acf67ca.chunk.css.map",
+    "static/js/2.81e0c35c.chunk.js.LICENSE.txt": "https://kpeeem.github.io/csb-4cdw2/static/js/2.81e0c35c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.454b95b3.js",
+    "static/js/2.81e0c35c.chunk.js",
+    "static/css/main.0acf67ca.chunk.css",
+    "static/js/main.b396ebcf.chunk.js"
+  ]
+}
